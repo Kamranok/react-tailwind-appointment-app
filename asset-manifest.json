@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-appointment-app/static/css/main.e97eb048.chunk.css",
+    "main.js": "/react-tailwind-appointment-app/static/js/main.9546d8c6.chunk.js",
+    "main.js.map": "/react-tailwind-appointment-app/static/js/main.9546d8c6.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-appointment-app/static/js/runtime-main.81197eea.js",
+    "runtime-main.js.map": "/react-tailwind-appointment-app/static/js/runtime-main.81197eea.js.map",
+    "static/js/2.893df9dd.chunk.js": "/react-tailwind-appointment-app/static/js/2.893df9dd.chunk.js",
+    "static/js/2.893df9dd.chunk.js.map": "/react-tailwind-appointment-app/static/js/2.893df9dd.chunk.js.map",
+    "index.html": "/react-tailwind-appointment-app/index.html",
+    "static/css/main.e97eb048.chunk.css.map": "/react-tailwind-appointment-app/static/css/main.e97eb048.chunk.css.map",
+    "static/js/2.893df9dd.chunk.js.LICENSE.txt": "/react-tailwind-appointment-app/static/js/2.893df9dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81197eea.js",
+    "static/js/2.893df9dd.chunk.js",
+    "static/css/main.e97eb048.chunk.css",
+    "static/js/main.9546d8c6.chunk.js"
+  ]
+}
